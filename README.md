@@ -1,5 +1,4 @@
 # Computing_on-GPU
-GENERAL PURPOSE COMPUTING ON GRAPHICS PROCESSING UNITS
 
 A GPU (graphics processing unit) is a computer chip that generates graphics
 and images by performing fast mathematical computations (Kruglov et al., 2016)
